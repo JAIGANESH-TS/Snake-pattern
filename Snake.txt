@@ -1,5 +1,5 @@
 
-
+//Printing snake pattern without using if stmt and matrix
 import java.util.*;
 
 import java.lang.*;
