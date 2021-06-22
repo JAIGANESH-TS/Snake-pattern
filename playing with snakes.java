@@ -1,5 +1,5 @@
-class Solution {
-    public int minimumMoves(int[][] grid) {
+class Hello {
+    public int m(int[][] grid) {
         int n=grid.length;
         Queue<int[]> q=new LinkedList<>();
         int start[]=new int[]{0,0,0,0};
